@@ -811,11 +811,11 @@
     "sidebarContent": {
       "menuItems": {
         "chat": "Chat",
-        "models": "Models",
-        "pals": "Pals",
+        "models": "AI Models",
+        "pals": "Assistants",
         "benchmark": "Benchmark",
         "settings": "Settings",
-        "appInfo": "App Info",
+        "appInfo": "About",
         "testCompletion": "Test Completion"
       },
       "deleteChatTitle": "Delete Chat",
@@ -1005,11 +1005,11 @@
   },
   "screenTitles": {
     "chat": "Chat",
-    "models": "Models",
-    "pals": "Pals (experimental)",
+    "models": "AI Models",
+    "pals": "Assistants",
     "benchmark": "Benchmark",
     "settings": "Settings",
-    "appInfo": "App Info",
+    "appInfo": "About",
     "testCompletion": "Test Completion"
   },
   "chat": {
